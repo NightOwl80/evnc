@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Nightowl**
+🚀 Hey! I'm **Nightowl**
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my [CV](/about/) and blog posts below 
